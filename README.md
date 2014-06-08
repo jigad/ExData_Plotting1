@@ -1,3 +1,6 @@
+## Update for this project
+The R scripts committed to this project assume that the data set provided by Prof Peng has been saved to a sub-directory called "data", one level below the R scripts (just in case you try to run them). The plots will appear in the same directory as the R scripts.
+
 ## Introduction
 
 This assignment uses data from
